@@ -1,8 +1,5 @@
 # UD31-JavaScriptII
 
--EJ10:
-https://chals20.github.io/UD31-JavaScriptII/EJ10
-
 -EJ11:
 https://chals20.github.io/UD31-JavaScriptII/EJ11
 
